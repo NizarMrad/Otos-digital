@@ -75,6 +75,12 @@ document.addEventListener("turbolinks:load", function () {
     });
 
     /*==============================
+    Re-Loading page
+    ==============================*/
+    $('a[data-reload="true"').click(function () {
+      location.reload();
+    });
+    /*==============================
     Animation
     ==============================*/
     $(".animate").scrolla({

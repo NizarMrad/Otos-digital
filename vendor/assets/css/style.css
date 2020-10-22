@@ -326,10 +326,10 @@ header ul.nav-menu > li:hover > ul.sub-menu > li:hover > ul.sub-menu {
   visibility: visible;
 }
 header ul.nav-menu > li.active > a {
-  color: #570a74;
+  color: #002e70;
 }
 header ul.nav-menu > li > a:hover {
-  color: #570a74;
+  color: #002e70;
 }
 header ul.nav-menu > li.mega-menu > a,
 header ul.nav-menu > li.has-dropdown > a {
@@ -1023,7 +1023,7 @@ header a.model-link span {
   height: 20px;
   padding: 1px;
   border-radius: 20px;
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
   line-height: 20px;
   font-size: 13px;
@@ -1081,7 +1081,7 @@ header .model-link {
   border: 4px solid #f9dc93;
 }
 #search .btn {
-  background-color: #570a74;
+  background-color: #002e70;
   border: none;
   float: right;
   margin-right: 20px;
@@ -1145,7 +1145,7 @@ header .model-link {
   text-align: center;
   font-weight: 500;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
 }
 .woocommerce
   .widget_shopping_cart
@@ -1386,7 +1386,7 @@ header .model-link {
 }
 .woocommerce .content-area .tags span.hash {
   font-size: 30px;
-  color: #570a74;
+  color: #002e70;
   font-weight: 600;
   display: inline-block;
   margin-right: 20px;
@@ -1420,8 +1420,8 @@ header .model-link {
   width: 1.8461538462em;
 }
 .woocommerce .content-area .page-links a {
-  background-color: #570a74;
-  border-color: #570a74;
+  background-color: #002e70;
+  border-color: #002e70;
   color: #fff;
   text-decoration: none;
 }
@@ -1582,11 +1582,11 @@ section.related.products h2 {
 
 .woocommerce div.product p.price,
 .woocommerce div.product span.price {
-  color: #570a74;
+  color: #002e70;
 }
 
 .woocommerce span.onsale {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 
 #add_payment_method table.cart td.actions .coupon .input-text,
@@ -1623,7 +1623,7 @@ section.related.products h2 {
 .woocommerce a.button.alt,
 .woocommerce button.button.alt,
 .woocommerce input.button.alt {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 
 /* -------- =========     Pagination Nav     ===========---------------- */
@@ -1678,7 +1678,7 @@ section.related.products h2 {
 .woocommerce nav.woocommerce-pagination ul > li span.current,
 .woocommerce nav.woocommerce-pagination ul > li a:hover,
 .woocommerce nav.woocommerce-pagination ul > li span:hover {
-  background: #570a74;
+  background: #002e70;
   color: #fff;
 }
 
@@ -1699,7 +1699,7 @@ section.related.products h2 {
 
 /* Tabs */
 .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
   -webkit-box-shadow: 0px 0px 18px -8px #858585;
   -moz-box-shadow: 0px 0px 18px -8px #858585;
@@ -1732,7 +1732,7 @@ section.related.products h2 {
 }
 
 .woocommerce #review_form #respond .form-submit input {
-  background-color: #570a74;
+  background-color: #002e70;
   border: none;
   color: #fff;
   padding: 10px 30px;
@@ -1807,7 +1807,7 @@ section.related.products h2 {
   cursor: pointer;
 }
 .go-top:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff !important;
 }
 
@@ -1835,7 +1835,7 @@ span.dropcaps {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 500;
-  background-color: #570a74;
+  background-color: #002e70;
   border-radius: 5px;
 }
 .nile-bottom.layout-1:hover {
@@ -1847,7 +1847,7 @@ span.dropcaps {
   padding: 12px 30px;
   border-radius: 50px;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   transition: all 0.5s;
   font-weight: 500;
 }
@@ -1954,7 +1954,7 @@ span.dropcaps {
   padding: 5px;
   text-align: center;
   border-radius: 50%;
-  background-color: #570a74;
+  background-color: #002e70;
   position: relative;
   z-index: 3;
 }
@@ -1971,7 +1971,7 @@ span.dropcaps {
   top: -5px;
   left: -5px;
   border-radius: 50%;
-  background-color: #570a74;
+  background-color: #002e70;
   opacity: 0.6;
   z-index: -1;
 }
@@ -2017,7 +2017,7 @@ span.dropcaps {
   margin-bottom: 10px;
 }
 .nile-service.layout-1 a.more {
-  color: #570a74;
+  color: #002e70;
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 500;
@@ -2053,12 +2053,12 @@ span.dropcaps {
   font-size: 14px;
   font-weight: 500;
   text-align: none;
-  text-decoration-color: #570a74;
+  text-decoration-color: #002e70;
 }
 .small-blog.layout-1 a.title:hover {
   text-decoration: underline;
   color: #000;
-  text-decoration-color: #570a74;
+  text-decoration-color: #002e70;
 }
 
 .community-logo {
@@ -2129,7 +2129,7 @@ span.dropcaps {
   outline: none;
 }
 .service-slider .owl-dots button.owl-dot.active {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 .service-slider:hover .owl-nav button.owl-prev {
   margin-left: -15px;
@@ -2581,7 +2581,7 @@ span.dropcaps {
   border-radius: 50%;
 }
 .testimonial-slider .owl-dots button.owl-dot.active {
-  border: 2px solid #570a74;
+  border: 2px solid #002e70;
 }
 .testimonial-slider:hover .owl-nav button.owl-prev {
   margin-left: -5px;
@@ -2606,7 +2606,7 @@ span.dropcaps {
   margin: auto 5px;
   outline: none;
   border-radius: 0px;
-  background-color: #570a74;
+  background-color: #002e70;
   opacity: 0.45;
   transition: all 0.5s;
 }
@@ -2646,12 +2646,12 @@ ul.nile-client-slider li a.client img {
   padding-top: 20px;
 }
 .nile-blog-home.layout-1 .meta {
-  color: #570a74;
+  color: #002e70;
 }
 .nile-blog-home.layout-1 .meta a {
   font-size: 13px;
   font-weight: 500;
-  color: #570a74;
+  color: #002e70;
 }
 .nile-blog-home.layout-1 .meta .cat {
   display: inline-block;
@@ -2696,7 +2696,7 @@ ul.nile-client-slider li a.client img {
   padding: 7px 5px;
   text-align: center;
   border-radius: 50%;
-  background-color: #570a74;
+  background-color: #002e70;
   position: absolute;
   z-index: 3;
   color: #fff;
@@ -2716,7 +2716,7 @@ ul.nile-client-slider li a.client img {
   top: -5px;
   left: -5px;
   border-radius: 50%;
-  background-color: #570a74;
+  background-color: #002e70;
   opacity: 0.6;
   z-index: -1;
 }
@@ -2858,15 +2858,16 @@ ul.portfolio-filter li {
 }
 
 .nile-page-title {
-  padding: 100px 0px;
+  padding: 170px 0px;
   background-color: #323232;
   text-align: center;
+  margin-bottom: 100px;
   color: #fff;
 }
 .nile-page-title h1 {
   font-size: 50px;
   font-weight: 700;
-  margin-bottom: 12px;
+  margin-bottom: 40px;
   line-height: 65px;
 }
 .nile-page-title ul.breadcrumbs {
@@ -2915,7 +2916,7 @@ ul.portfolio-filter li {
   box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.1);
 }
 .nile-about-boss ul.social-media li a:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 
@@ -2941,7 +2942,7 @@ ul.portfolio-filter li {
 .team.layout-1 .dis {
   font-weight: 500;
   font-size: 13px;
-  color: #570a74;
+  color: #002e70;
 }
 .team.layout-1 .img-out {
   position: relative;
@@ -2963,7 +2964,7 @@ ul.portfolio-filter li {
   text-align: center;
   border-radius: 0px;
   transition: 0.5s ease;
-  background-color: #570a74;
+  background-color: #002e70;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -3015,7 +3016,7 @@ ul.portfolio-filter li {
 .attorney-detail .attorney-content ul.details li:before {
   content: "\35";
   font-family: "ElegantIcons";
-  color: #570a74;
+  color: #002e70;
   display: inline-block;
   margin-right: 5px;
 }
@@ -3075,7 +3076,7 @@ ul.portfolio-filter li {
   -webkit-box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.1);
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 .services-sidebar .block ul.brochures-menu {
@@ -3187,7 +3188,7 @@ ul.careers-list li a img {
   padding: 13px 60px;
   border-radius: 0px;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   transition: all 0.5s;
   font-weight: 500;
 }
@@ -3204,7 +3205,7 @@ ul.careers-list li a img {
   padding: 30px;
 }
 .nile-blog-entry.layout-1 .cats {
-  color: #570a74;
+  color: #002e70;
 }
 .nile-blog-entry.layout-1 .cats .fa {
   margin-right: 6px;
@@ -3212,7 +3213,7 @@ ul.careers-list li a img {
 .nile-blog-entry.layout-1 .cats a {
   font-weight: 500;
   font-size: 13px;
-  color: #570a74;
+  color: #002e70;
 }
 .nile-blog-entry.layout-1 a.title {
   font-size: 19px;
@@ -3234,14 +3235,14 @@ ul.careers-list li a img {
   font-weight: 600;
 }
 .nile-blog-entry.layout-1 a.read_more:hover {
-  background-color: #570a74;
+  background-color: #f11852;
 }
 .nile-blog-entry.layout-1 .img-in {
   position: relative;
   overflow: hidden;
 }
 .nile-blog-entry.layout-1 .img-in .social-media {
-  background-color: #570a74;
+  background-color: #002e70;
   position: absolute;
   bottom: -30px;
   margin: auto;
@@ -3274,7 +3275,7 @@ ul.careers-list li a img {
   padding: 40px;
 }
 .nile-blog-entry.layout-2 .cats {
-  color: #570a74;
+  color: #002e70;
 }
 .nile-blog-entry.layout-2 .cats .fa {
   margin-right: 6px;
@@ -3282,7 +3283,7 @@ ul.careers-list li a img {
 .nile-blog-entry.layout-2 .cats a {
   font-weight: 500;
   font-size: 13px;
-  color: #570a74;
+  color: #002e70;
 }
 .nile-blog-entry.layout-2 a.title {
   font-size: 19px;
@@ -3304,7 +3305,7 @@ ul.careers-list li a img {
   font-weight: 600;
 }
 .nile-blog-entry.layout-2 a.read_more:hover {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 .nile-blog-entry.layout-2 .img-in {
   position: relative;
@@ -3314,7 +3315,7 @@ ul.careers-list li a img {
   margin-right: 40px;
 }
 .nile-blog-entry.layout-2 .img-in .social-media {
-  background-color: #570a74;
+  background-color: #002e70;
   position: absolute;
   bottom: -30px;
   margin: auto;
@@ -3349,7 +3350,7 @@ ul.careers-list li a img {
 .nile-blog-entry.layout-3 .cats a {
   font-weight: 500;
   font-size: 13px;
-  color: #570a74;
+  color: #002e70;
 }
 .nile-blog-entry.layout-3 a.title {
   font-size: 30px;
@@ -3370,14 +3371,14 @@ ul.careers-list li a img {
   font-weight: 600;
 }
 .nile-blog-entry.layout-3 a.read_more:hover {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 .nile-blog-entry.layout-3 .img-in {
   position: relative;
   overflow: hidden;
 }
 .nile-blog-entry.layout-3 .img-in .social-media {
-  background-color: #570a74;
+  background-color: #002e70;
   position: absolute;
   bottom: -30px;
   margin: auto;
@@ -3455,7 +3456,7 @@ ul.careers-list li a img {
   margin-left: 100px;
 }
 .icon-text.layout-2 .icon {
-  background-color: #570a74;
+  background-color: #002e70;
   padding: 20px;
   border-radius: 70px;
   display: inline-block;
@@ -3483,7 +3484,7 @@ ul.careers-list li a img {
 }
 .icon-text.layout-3 .icon {
   width: 55px;
-  background-color: #570a74;
+  background-color: #002e70;
   padding: 15px;
   border-radius: 50%;
   display: inline-block;
@@ -3541,7 +3542,7 @@ ul.careers-list li a img {
   height: 70px;
   text-align: center;
   padding: 20px 0px;
-  background-color: #570a74;
+  background-color: #002e70;
   border-radius: 5px;
   float: left;
   text-align: center;
@@ -3601,7 +3602,7 @@ ul.careers-list li a img {
   top: 0;
   right: 0;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   cursor: pointer;
   border: none;
   padding: 10px 20px 10px 20px;
@@ -3645,7 +3646,7 @@ ul.careers-list li a img {
   top: 0;
   right: 0;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   cursor: pointer;
   border: none;
   padding: 10px 20px 10px 20px;
@@ -3695,7 +3696,7 @@ ul.careers-list li a img {
   margin-bottom: 8px;
   font-weight: 600;
   font-size: 17px;
-  color: #570a74;
+  color: #002e70;
 }
 .nile-title.layout-1 h2 {
   font-size: 65px;
@@ -3829,7 +3830,7 @@ ul.work-slider-1 li {
   content: " ";
   width: 100%;
   height: 100%;
-  background-color: #570a74;
+  background-color: #002e70;
   position: absolute;
   left: -30px;
   top: -30px;
@@ -3907,7 +3908,7 @@ ul.work-slider-1 li {
   content: " ";
   width: 100%;
   height: 100%;
-  background-color: #570a74;
+  background-color: #002e70;
   position: absolute;
   left: -30px;
   top: -30px;
@@ -4100,7 +4101,7 @@ ul.work-slider-1 li {
   border: 2px solid #fff;
 }
 .testimonial-slider-2.dark .owl-dots button.owl-dot.active {
-  border: 2px solid #570a74;
+  border: 2px solid #002e70;
 }
 .testimonial-slider-2:hover .owl-nav button.owl-prev {
   margin-left: -5px;
@@ -4124,7 +4125,7 @@ ul.work-slider-1 li {
   top: 5%;
   left: 5%;
   background-color: #f9dc93;
-  border: 8px solid #570a74;
+  border: 8px solid #002e70;
   -webkit-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
   overflow: hidden;
@@ -4270,7 +4271,7 @@ ul.work-slider-1 li {
   display: block;
   text-align: center;
   position: absolute;
-  background-color: #570a74;
+  background-color: #002e70;
   width: 140px;
   color: #fff;
   opacity: 0;
@@ -4310,7 +4311,7 @@ ul.work-slider-1 li {
   margin-bottom: 15px;
 }
 .fizo-blog.layout-2 a.title_in:hover {
-  color: #570a74;
+  color: #002e70;
 }
 .fizo-blog.layout-2 .excerpt {
   font-size: 13px;
@@ -4480,7 +4481,7 @@ ul.work-slider-1 li {
   margin-left: -18px;
 }
 .about-slider .owl-nav button.owl-prev:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 .about-slider .owl-nav button.owl-next {
@@ -4496,7 +4497,7 @@ ul.work-slider-1 li {
   margin-right: -18px;
 }
 .about-slider .owl-nav button.owl-next:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 
@@ -4577,7 +4578,7 @@ ul.work-slider-1 li {
 }
 .fizo-icon-box.layout-3 a.more {
   text-transform: uppercase;
-  color: #570a74;
+  color: #002e70;
   font-weight: 500;
   font-size: 13px;
 }
@@ -4597,7 +4598,7 @@ ul.work-slider-1 li {
 .fizo-icon-box.layout-4 .icon {
   padding: 30px;
   margin: 20px auto;
-  background-color: #570a74;
+  background-color: #002e70;
   border-radius: 50%;
   max-width: 120px;
 }
@@ -4612,7 +4613,7 @@ ul.work-slider-1 li {
   background-color: #f9dc93;
 }
 .fizo-icon-box.layout-4:hover h3 a {
-  color: #570a74;
+  color: #002e70;
 }
 .fizo-icon-box.layout-5 {
   text-align: center;
@@ -4620,7 +4621,7 @@ ul.work-slider-1 li {
 }
 .fizo-icon-box.layout-5 .icon {
   margin: 20px auto;
-  background-color: #570a74;
+  background-color: #002e70;
   border-radius: 50%;
   width: 100px;
   height: 100px;
@@ -4649,7 +4650,7 @@ ul.work-slider-1 li {
   background-color: #f9dc93;
 }
 .fizo-icon-box.layout-5:hover h3 a {
-  color: #570a74;
+  color: #002e70;
 }
 
 .fizo-img-text.layout-1 {
@@ -4675,7 +4676,7 @@ ul.work-slider-1 li {
   color: #fff;
   font-size: 15px;
   text-transform: uppercase;
-  background-color: #570a74;
+  background-color: #002e70;
   position: absolute;
   bottom: -55px;
   width: 100%;
@@ -4760,7 +4761,7 @@ ul.fizo-client-slider li a {
   padding: 0;
   overflow: auto;
   z-index: 9;
-  background-color: #570a74;
+  background-color: #002e70;
 }
 .fizo-one-page .fizo-left-sidebar .logo {
   padding: 10px 30px;
@@ -4874,7 +4875,7 @@ ul.fizo-client-slider li a {
   display: block;
   width: 80px;
   height: 80px;
-  background: #570a74;
+  background: #002e70;
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
 }
@@ -4889,7 +4890,7 @@ ul.fizo-client-slider li a {
   display: block;
   width: 80px;
   height: 80px;
-  background: #570a74;
+  background: #002e70;
   border-radius: 50%;
   transition: all 200ms;
 }
@@ -4969,7 +4970,7 @@ ul.fizo-client-slider li a {
 .nile-blog-sidebar .nile-widget.widget_nav_menu ul li:before {
   content: "\35";
   font-family: "ElegantIcons";
-  color: #570a74;
+  color: #002e70;
   display: inline-block;
   margin-right: 5px;
 }
@@ -5142,7 +5143,7 @@ ul.fizo-client-slider li a {
 .nile-blog-sidebar .nile-widget.widget_nav_menu ul li:before {
   content: "\35";
   font-family: "ElegantIcons";
-  color: #570a74;
+  color: #002e70;
   display: inline-block;
   position: absolute;
   left: -15px;
@@ -5183,7 +5184,7 @@ ul.fizo-client-slider li a {
 .nile-blog-sidebar .nile-widget.widget_pages ul li:before {
   content: "\35";
   font-family: "ElegantIcons";
-  color: #570a74;
+  color: #002e70;
   display: inline-block;
   margin-right: 5px;
 }
@@ -5238,7 +5239,7 @@ ul.fizo-client-slider li a {
   color: #222;
 }
 .nile-blog-sidebar .nile-widget.widget_calendar #wp-calendar tbody td:hover {
-  background: #570a74;
+  background: #002e70;
   color: #fff;
 }
 .nile-blog-sidebar .nile-widget.widget_calendar #wp-calendar tbody .pad {
@@ -5279,7 +5280,7 @@ ul.fizo-client-slider li a {
   top: 0;
   right: 0;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   cursor: pointer;
   border: none;
   padding: 10px 20px 10px 20px;
@@ -5321,7 +5322,7 @@ ul.fizo-client-slider li a {
   top: 30px;
   right: 30px;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   cursor: pointer;
   border: none;
   padding: 10px 20px 10px 20px;
@@ -5333,7 +5334,7 @@ ul.fizo-client-slider li a {
 
 /*** Post Entry ***/
 .post-quote-layout {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 .post-quote-layout a.post-quote {
   display: block;
@@ -5535,7 +5536,7 @@ ul.fizo-client-slider li a {
 }
 .post-entry .tags span.hash {
   font-size: 30px;
-  color: #570a74;
+  color: #002e70;
   font-weight: 600;
   display: inline-block;
   margin-right: 20px;
@@ -5569,8 +5570,8 @@ ul.fizo-client-slider li a {
   width: 1.8461538462em;
 }
 .post-entry .page-links a {
-  background-color: #570a74;
-  border-color: #570a74;
+  background-color: #002e70;
+  border-color: #002e70;
   color: #fff;
   text-decoration: none;
 }
@@ -5760,7 +5761,7 @@ ul.fizo-client-slider li a {
   height: 120px;
 }
 #comments input.submit {
-  background-color: #570a74;
+  background-color: #002e70;
   border: none;
   color: #fff;
   padding: 10px 30px;
@@ -6027,7 +6028,7 @@ ul.fizo-client-slider li a {
 }
 #comments .comment-content .tags span.hash {
   font-size: 30px;
-  color: #570a74;
+  color: #002e70;
   font-weight: 600;
   display: inline-block;
   margin-right: 20px;
@@ -6061,8 +6062,8 @@ ul.fizo-client-slider li a {
   width: 1.8461538462em;
 }
 #comments .comment-content .page-links a {
-  background-color: #570a74;
-  border-color: #570a74;
+  background-color: #002e70;
+  border-color: #002e70;
   color: #fff;
   text-decoration: none;
 }
@@ -6126,7 +6127,7 @@ ul.fizo-client-slider li a {
 }
 #comments input.submit,
 .comment-respond input.submit {
-  background-color: #570a74;
+  background-color: #002e70;
   border: none;
   color: #fff;
   padding: 10px 30px;
@@ -6497,7 +6498,7 @@ ul.fizo-client-slider li a {
   text-transform: uppercase;
 }
 .nile-sidebar .about-me-widget a.nile-bottom:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 .nile-sidebar .niletheme_latest_news_widget ul.lastet-Posts {
@@ -6536,7 +6537,7 @@ ul.fizo-client-slider li a {
   border-radius: 50%;
   text-align: center;
   padding-top: 17px;
-  background-color: #570a74;
+  background-color: #002e70;
   font-size: 20px;
 }
 .nile-sidebar .niletheme_latest_news_widget ul.lastet-Posts li a.date {
@@ -6606,7 +6607,7 @@ ul.fizo-client-slider li a {
   text-transform: uppercase;
 }
 .nile-sidebar .niletheme_contact_widget form a.nile-bottom:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 .nile-sidebar .nile-widget form.wpcf7-form {
@@ -6655,7 +6656,7 @@ ul.fizo-client-slider li a {
   cursor: pointer;
 }
 .nile-sidebar .nile-widget form.wpcf7-form input.wpcf7-submit:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 .nile-sidebar .niletheme_projects_widget ul.projects-feed {
@@ -6920,7 +6921,7 @@ footer.layout-2 ul.social-media li a {
   box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.1);
 }
 footer.layout-2 ul.social-media li a:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 footer.layout-3 {
@@ -6976,7 +6977,7 @@ footer.layout-3 ul.social-media li a {
   box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.1);
 }
 footer.layout-3 ul.social-media li a:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 footer.layout-4 {
@@ -7024,7 +7025,7 @@ footer.layout-4 ul.social-media li a {
   box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.1);
 }
 footer.layout-4 ul.social-media li a:hover {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
 }
 footer.layout-4 .copyright-text {
@@ -7078,7 +7079,7 @@ button:active,
 }
 
 .btn-primary-travlez {
-  background-color: #570a74;
+  background-color: #002e70;
   border: none;
   border-radius: 0px;
   font-size: 13px;
@@ -7309,7 +7310,7 @@ video {
 ======================================================================= */
 /*--- Global Background ---*/
 .background-main-color {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 
 .background-main-color-2 {
@@ -7553,7 +7554,7 @@ video {
 }
 
 .background-img-main-color:after {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 
 .background-img-second-color:after {
@@ -7589,7 +7590,7 @@ video {
 
 /*--- Text Color ---*/
 .text-main-color {
-  color: #570a74;
+  color: #002e70;
 }
 
 .text-second-color {
@@ -25316,7 +25317,7 @@ video {
 
 /*--- Borders Colors ---*/
 .border-main-color {
-  border-color: #570a74 !important;
+  border-color: #002e70 !important;
 }
 
 .border-second-color {
@@ -37845,7 +37846,7 @@ ul.pagination.dark li a {
 }
 
 .page-item.active .page-link {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fff;
   border: none;
   -webkit-box-shadow: 0px 0px 36px -13px rgba(0, 0, 0, 0.75);
@@ -37854,7 +37855,7 @@ ul.pagination.dark li a {
 }
 
 ul.pagination.color li a {
-  background-color: #570a74;
+  background-color: #002e70;
   color: #fafafa;
   border: none;
 }
@@ -38085,7 +38086,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 }
 .cart-model a.btn-outline-primary {
   border: none;
-  color: #570a74;
+  color: #002e70;
   font-weight: 400;
   padding: 13px 30px;
   text-transform: capitalize;
@@ -38099,7 +38100,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
   text-align: right;
 }
 .cart-model a.btn-outline-primary:hover {
-  background-color: #570a74;
+  background-color: #002e70;
 }
 .cart-model .cart-total {
   margin: 0px 0 0px 0;
@@ -38267,7 +38268,7 @@ ul.pricing-content li {
 .widget.widget_meta ul li a:before,
 .widget.widget_rss ul li a:before {
   font-family: FontAwesome;
-  color: #570a74;
+  color: #002e70;
   margin-left: 3px;
   margin-right: 8px;
   content: "\f115";
@@ -38336,7 +38337,7 @@ ul.pricing-content li {
 .engineer-comments [type="submit"] {
   padding: 8px 20px 8px 20px;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   border: none;
 }
 
@@ -38363,7 +38364,7 @@ h4.table-title {
   text-transform: capitalize;
   font-size: 16px;
   color: #fff;
-  background-color: #570a74;
+  background-color: #002e70;
   text-align: center;
   margin: -30px -30px 20px -30px;
   font-weight: 700;
@@ -38449,7 +38450,7 @@ a img.aligncenter {
 /* Tabs
 ---------------------------------------------------------------- */
 .nav-tabs-2 .nav-link {
-  background-color: #570a74;
+  background-color: #002e70;
   border-radius: 0px;
   border: none;
   color: #eee;
@@ -38715,7 +38716,7 @@ ul.list-style-10 li:before {
   position: absolute;
   top: -3px;
   right: -10px;
-  color: #570a74;
+  color: #002e70;
 }
 
 /* Social Icons
@@ -39199,7 +39200,7 @@ dl dt {
   width: 100px;
   text-align: left;
   font-weight: bold;
-  color: #570a74;
+  color: #002e70;
 }
 dl dt:after {
   content: ":";
@@ -39796,7 +39797,7 @@ form.dark-form ::-ms-input-placeholder {
     padding: 20px 0px 20px 0px;
   }
   header.sm-ba-main {
-    background-color: #570a74;
+    background-color: #002e70;
   }
   header.yoga-header .logo-in a.logo {
     position: relative;
@@ -39899,7 +39900,7 @@ form.dark-form ::-ms-input-placeholder {
   }
 
   header.layout-1 {
-    background-color: #570a74;
+    background-color: #002e70;
   }
   header.layout-1 ul.nav-menu {
     float: none;
@@ -44125,7 +44126,7 @@ form.dark-form ::-ms-input-placeholder {
   }
 
   .service.layout-1 {
-    background-color: #570a74;
+    background-color: #002e70;
     margin-bottom: 30px;
   }
 }
@@ -44137,12 +44138,12 @@ form.dark-form ::-ms-input-placeholder {
     padding-top: 20px;
   }
   .nile-blog-home.layout-1 .meta {
-    color: #570a74;
+    color: #002e70;
   }
   .nile-blog-home.layout-1 .meta a {
     font-size: 13px;
     font-weight: 500;
-    color: #570a74;
+    color: #002e70;
   }
   .nile-blog-home.layout-1 .meta .cat {
     display: inline-block;
@@ -44185,7 +44186,7 @@ form.dark-form ::-ms-input-placeholder {
     padding: 5px;
     text-align: center;
     border-radius: 50%;
-    background-color: #570a74;
+    background-color: #002e70;
     position: absolute;
     z-index: 3;
   }
@@ -44203,7 +44204,7 @@ form.dark-form ::-ms-input-placeholder {
     top: -5px;
     left: -5px;
     border-radius: 50%;
-    background-color: #570a74;
+    background-color: #002e70;
     opacity: 0.6;
     z-index: -1;
   }
