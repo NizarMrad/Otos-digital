@@ -13,15 +13,11 @@
                                 <li><%= link_to "Home", root_path, :data => { :reload => true }%></li>
                                 <li class="has-dropdown"><a href="#">Pages</a>
                                     <ul class="sub-menu">
-                                        <li><a href="page-about.html">About Us</a></li>
-                                        <li><a href="page-about-2.html">Who We Are ?</a></li>
-                                        <li><a href="page-team.html">Our Team</a></li>
-                                        <li><a href="page-services.html">Our Services</a></li>
-                                        <li><a href="page-services-single.html">Service Single</a></li>
-                                        <li><a href="page-faq.html">FAQ</a></li>
-
-                                        <li><a href="page-testimonial.html">Client’s Opinions</a></li>
-                                        <li><a href="page-contact.html">Contact Us</a></li>
+                                        <li><%= link_to "Qui sommes nous ?", pages_about_path %></li>
+                                        <li><%= link_to "Notre équipe", pages_team_path %></li>
+                                        <li><%= link_to "Nos services", pages_services_path %></li>
+                                        <li><%= link_to "Ils palents de nous", pages_feedbacks_path %></li>
+                                        <li><%= link_to "FAQ", pages_faq_path %></li>
                                     </ul>
                                 </li>
                                 <li><%= link_to "Portfolio", portfolio_index_path %></li>
